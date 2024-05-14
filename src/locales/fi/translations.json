@@ -1,0 +1,14 @@
+{
+  "translation": {
+    "break": "Tauko",
+    "continue at": "Jatketaan klo {{targetTime}}",
+    "in minutes": "{{minutes}} minuutin kuluttua",
+    "close": "Lopeta",
+    "continue": "Jatkuu pian",
+    "TimePicker": {
+      "okButtonLabel": "Aseta",
+      "cancelButtonLabel": "Peruuta",
+      "timePickerToolbarTitle": "Aseta aika"
+    }
+  }
+}

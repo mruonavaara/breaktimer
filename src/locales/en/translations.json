@@ -1,0 +1,14 @@
+{
+  "translation": {
+    "break": "Break",
+    "continue at": "We will continue at {{targetTime}}",
+    "in minutes": "in {{minutes}} minutes",
+    "continue": "We will continue soon",
+    "close": "Close",
+    "TimePicker": {
+      "okButtonLabel": "OK",
+      "cancelButtonLabel": "Cancel",
+      "timePickerToolbarTitle": "Set time"
+    }
+  }
+}
