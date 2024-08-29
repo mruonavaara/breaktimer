@@ -29,7 +29,7 @@ function BreakTimer() {
               <div>
                 <h1>{t('break')}</h1>
                 <h2>{t('continue at', { targetTime: deadline.format('H.mm') })}</h2>
-                <div>{t('in minutes', { minutes })}</div>
+                <div>{minutes >= 0 && t('in minutes', { minutes })}</div>
                 <button className="footer" onClick={initialize}>{t('close')}</button>
               </div> :
               <div>

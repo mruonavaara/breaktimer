@@ -3,7 +3,7 @@
     "break": "Tauko",
     "continue at": "Jatketaan klo {{targetTime}}",
     "in minutes": "{{minutes}} minuutin kuluttua",
-    "close": "Lopeta",
+    "close": "Sulje",
     "continue": "Jatkuu pian",
     "TimePicker": {
       "okButtonLabel": "Aseta",
